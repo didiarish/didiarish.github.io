@@ -1396,3 +1396,33 @@ blockquote {
     margin-right: 0;
   }
 }
+
+/* Gray */
+.btn-cv {
+  border-radius: 5px;
+  border: 1px solid #fff;
+  width: fit-content;
+  padding: 8px;
+  font-size: 12px;
+  color: #fff;
+  margin-right: 15px;
+  transition: ease-in 0.2s;
+}
+.btn-cv:hover {
+  background: #fff;
+  color: #333;
+}
+
+.btn-port {
+  border-radius: 5px;
+  border: 1px solid #fff;
+  width: fit-content;
+  padding: 8px;
+  font-size: 12px;
+  color: #fff;
+  transition: ease-in 0.2s;
+}
+.btn-port:hover {
+  color: #333;
+  background: #fff;
+}
